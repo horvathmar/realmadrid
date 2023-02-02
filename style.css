@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://pbs.twimg.com/media/FAWysURWQAIxAng.jpg:large");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#fejlec {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.keret {
+    display: inline;
+    float: left;
+}
+#fejlec a {
+    display: block;
+    padding: 5px 16px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.active {
+    float: left;
+    display: inline;
+}
